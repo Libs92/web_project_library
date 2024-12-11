@@ -345,6 +345,7 @@
 }
 
 .footer__columns {
+  display: contents;
   margin: 0;
 }
 
