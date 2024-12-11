@@ -395,7 +395,7 @@
   text-decoration: none;
   display: flex;
   align-items: center;
-  column-gap: normal;
+  column-gap: initial;
 }
 
 .footer__social-icon {
