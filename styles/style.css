@@ -345,7 +345,7 @@
 }
 
 .footer__columns {
-  display: contents;
+  display: flex;
   margin: 0;
 }
 
@@ -363,7 +363,7 @@
 .footer__column_content_social {
   display: flex;
   flex-direction: column;
-  margin-left: 70px;
+  margin-left: 80px;
 }
 
 .footer__logo {
