@@ -345,7 +345,7 @@
 }
 
 .footer__columns {
-  display: flex;
+  display: contents;
   margin: 0;
 }
 
@@ -395,7 +395,7 @@
   text-decoration: none;
   display: flex;
   align-items: center;
-  column-gap: initial;
+  column-gap: normal;
 }
 
 .footer__social-icon {
