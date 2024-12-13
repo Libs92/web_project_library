@@ -344,12 +344,9 @@
   padding: 60px 80px;
 }
 
-.footer__columns {
+.footer__column {
   display: contents;
   margin: 0;
-}
-
-.footer__column {
   display: flex;
   justify-content: space-between;
 }
