@@ -348,6 +348,9 @@
   display: flex;
   justify-content: space-between;
 }
+.footer__column {
+  display: contents;
+}
 
 .footer__column_content_hours {
   font-size: small;
