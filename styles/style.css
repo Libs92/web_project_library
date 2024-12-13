@@ -395,10 +395,10 @@
   text-decoration: none;
   display: flex;
   align-items: center;
-  column-gap: normal;
 }
 
 .footer__social-icon {
+  margin: 0 10px 0 0;
   width: 16px;
   height: 16px;
 }
