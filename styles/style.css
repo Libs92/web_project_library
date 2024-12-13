@@ -344,13 +344,13 @@
   padding: 60px 80px;
 }
 
+.footer__columns {
+}
+
 .footer__column {
-  display: contents;
-  margin: 0;
   display: flex;
   justify-content: space-between;
 }
-
 .footer__column_content_hours {
   display: flex;
   flex-direction: column;
